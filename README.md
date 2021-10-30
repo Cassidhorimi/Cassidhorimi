@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou Cassid Horimi!
 
 <div align="center">
   <a href="https://github.com/Cassidhorimi">
