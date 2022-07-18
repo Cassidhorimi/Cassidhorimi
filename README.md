@@ -1,4 +1,4 @@
-### Olá, sou Cassid Horimi!
+### Olá, sou Cassid Horimi!!
 <div align="center">
   <a href="https://github.com/Cassidhorimi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassidhorimi&show_icons=true&theme=dracula"/>
